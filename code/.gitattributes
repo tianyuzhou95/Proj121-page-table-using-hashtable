@@ -1,0 +1,2 @@
+4k-hash/rootfs_kvm_riscv64.img filter=lfs diff=lfs merge=lfs -text
+16k-hash/rootfs_kvm_riscv64.img filter=lfs diff=lfs merge=lfs -text
