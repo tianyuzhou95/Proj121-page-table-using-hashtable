@@ -4,7 +4,7 @@
 
 题目链接：[Proj121-Page table using hash table](https://github.com/oscomp/proj121-page-table-using-hashtable)&emsp;难度：**高**
 
-更详细的内容可以观看[2022全国大学生系统能力大赛操作系统设计赛第九场技术培训会项目四](https://www.bilibili.com/video/BV1hd4y1U7TH?spm_id_from=333.337.search-card.all.click)&emsp;[Proj121 直播录屏（纯享版）](Video/0731分享.mp4)
+更详细的内容可以观看[2022全国大学生系统能力大赛操作系统设计赛第九场技术培训会项目四](https://www.bilibili.com/video/BV1hd4y1U7TH?spm_id_from=333.337.search-card.all.click)&emsp;[Proj121 直播录屏（纯享版）](https://pan.baidu.com/s/1YLOQqtWM9v39igDmvJdRVg?pwd=8zhf)
 
 ## 项目概述
     
@@ -90,13 +90,12 @@
 
 ## 文件目录
 
-* [code](code)：     存放了改进后的linux源码，用于测试的`test_OS`以及修改的`RISC-V`仿真器。
-* [doc](doc):     包含操作手册(如何启动Host OS 与 Guest OS)，技术报告PPT，操作系统教学思维导图和开发文档。
+* [code](code)：存放了改进后的linux源码，用于测试的`test_OS`以及修改的`RISC-V`仿真器。
+* [doc](doc): 包含操作手册(如何启动Host OS 与 Guest OS)，技术报告PPT，操作系统教学思维导图和开发文档。
 * [exp_result](exp_result):存放了测试结果，包含MBW,STREAM,LMbench和Redis四个benchmark测试结果。
-* [images](images)：   存放了此README文件引用的图片。
-* [Record](Record)：   存放了时间进度安排文件。
+* [images](images)：存放了此README文件引用的图片。
+* [Record](Record)：存放了时间进度安排文件。
 * [reference](reference): 存放了该项目的参考文献。
-* [Video](Video): 存放了该项目的相关视频。
 
 
 
