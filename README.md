@@ -4,7 +4,7 @@
 
 题目链接：[Proj121-Page table using hash table](https://github.com/oscomp/proj121-page-table-using-hashtable)&emsp;难度：**高**
 
-更详细的内容可以观看[2022全国大学生系统能力大赛操作系统设计赛第九场技术培训会项目四](https://www.bilibili.com/video/BV1hd4y1U7TH?spm_id_from=333.337.search-card.all.click)&emsp;[Proj121 直播录屏（纯享版）][百度网盘视频链接](https://pan.baidu.com/s/1YLOQqtWM9v39igDmvJdRVg?pwd=8zhf)
+更详细的内容可以观看[2022全国大学生系统能力大赛操作系统设计赛第九场技术培训会项目四](https://www.bilibili.com/video/BV1hd4y1U7TH?spm_id_from=333.337.search-card.all.click)&emsp;[Proj121 直播录屏（纯享版）](https://pan.baidu.com/s/1YLOQqtWM9v39igDmvJdRVg?pwd=8zhf)
 
 ## 项目概述
     
