@@ -90,11 +90,11 @@
 
 ## 文件目录
 
-* [code](code)：     存放了改进后的linux源码，用于测试的`test_OS`以及修改的`RISC-V`仿真器。
-* [doc](doc):     包含操作手册(如何启动Host OS 与 Guest OS)，技术报告PPT，操作系统教学思维导图和开发文档。
+* [code](code)：存放了改进后的linux源码，用于测试的`test_OS`以及修改的`RISC-V`仿真器。
+* [doc](doc): 包含操作手册(如何启动Host OS 与 Guest OS)，技术报告PPT，操作系统教学思维导图和开发文档。
 * [exp_result](exp_result):存放了测试结果，包含MBW,STREAM,LMbench和Redis四个benchmark测试结果。
-* [images](images)：   存放了此README文件引用的图片。
-* [Record](Record)：   存放了时间进度安排文件。
+* [images](images)：存放了此README文件引用的图片。
+* [Record](Record)：存放了时间进度安排文件。
 * [reference](reference): 存放了该项目的参考文献。
 * [Video](Video): 存放了该项目的相关视频。
 
