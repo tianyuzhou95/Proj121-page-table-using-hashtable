@@ -4,7 +4,7 @@
 
 题目链接：[Proj121-Page table using hash table](https://github.com/oscomp/proj121-page-table-using-hashtable)&emsp;难度：**高**
 
-更详细的内容可以观看[2022全国大学生系统能力大赛操作系统设计赛第九场技术培训会项目四](https://www.bilibili.com/video/BV1hd4y1U7TH?spm_id_from=333.337.search-card.all.click)&emsp;[Proj121 直播录屏（纯享版）](Video/0731分享.mp4)
+更详细的内容可以观看[2022全国大学生系统能力大赛操作系统设计赛第九场技术培训会项目四](https://www.bilibili.com/video/BV1hd4y1U7TH?spm_id_from=333.337.search-card.all.click)&emsp;[Proj121 直播录屏（纯享版）][百度网盘视频链接](https://pan.baidu.com/s/1YLOQqtWM9v39igDmvJdRVg?pwd=8zhf)
 
 ## 项目概述
     
@@ -96,7 +96,6 @@
 * [images](images)：存放了此README文件引用的图片。
 * [Record](Record)：存放了时间进度安排文件。
 * [reference](reference): 存放了该项目的参考文献。
-* [Video](Video): 存放了该项目的相关视频。
 
 
 
